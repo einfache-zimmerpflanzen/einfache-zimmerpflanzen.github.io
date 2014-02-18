@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://einfache-zimmerpflanzen.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://einfache-zimmerpflanzen.de
+title: Einfache Zimmerpflanzen
+subtitle: Tipps für zu Hause und für's Büro
+author: repat
 simple_search: http://google.com/search
-description:
+description: Der Einfache Zimmerpflanzen Blog gibt Tipps zum Kaufen und Halten von pflegeleichten Zimmerpflanzen 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -20,6 +20,7 @@ subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
+cover: images/cover.png
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -63,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: repat
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: repat123
 twitter_tweet_button: true
 
 # Google +1
@@ -97,4 +98,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
