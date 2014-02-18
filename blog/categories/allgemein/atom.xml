@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Einfache Zimmerpflanzen]]></title>
-  <link href="http://einfache-zimmerpflanzen.de/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Allgemein | Einfache Zimmerpflanzen]]></title>
+  <link href="http://einfache-zimmerpflanzen.de/blog/categories/allgemein/atom.xml" rel="self"/>
   <link href="http://einfache-zimmerpflanzen.de/"/>
   <updated>2014-02-18T11:28:24+01:00</updated>
   <id>http://einfache-zimmerpflanzen.de/</id>
