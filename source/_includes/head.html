@@ -6,14 +6,10 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %} - {% endif %}{{ site.title }}</title>
   <meta name="author" content="{{ site.author }}">
-
-  {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
-  <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
-  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+  <meta name="description" content="Der Einfache Zimmerpflanzen Blog gibt Tipps zum Kaufen und Halten von pflegeleichten Zimmerpflanzen">
+  <meta name="keywords" content="einfache, pflegeleichte, zimmerpflanzen, büropflanzen, anleitung, giessen, kauftipps">
 
   <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
@@ -27,4 +23,5 @@
   <script src="{{ root_url }}/javascripts/octopress.js" type="text/javascript"></script>
   {% include custom/head.html %}
   {% include google_analytics.html %}
+  {% include custom/richobject.html %}
 </head>
