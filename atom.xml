@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://einfache-zimmerpflanzen.github.io/atom.xml" rel="self"/>
-  <link href="http://einfache-zimmerpflanzen.github.io/"/>
-  <updated>2014-02-18T11:17:33+01:00</updated>
-  <id>http://einfache-zimmerpflanzen.github.io/</id>
+  <title><![CDATA[Einfache Zimmerpflanzen]]></title>
+  <link href="http://einfache-zimmerpflanzen.de/atom.xml" rel="self"/>
+  <link href="http://einfache-zimmerpflanzen.de/"/>
+  <updated>2014-02-18T11:21:37+01:00</updated>
+  <id>http://einfache-zimmerpflanzen.de/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[repat]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
