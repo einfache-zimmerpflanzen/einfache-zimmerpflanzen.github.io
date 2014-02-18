@@ -1,0 +1,32 @@
+.wikipedia {
+  font-size: 0.8em;
+  font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
+  padding: 5px 20px 5px 20px;
+  background: inline-image('w.png') no-repeat #eee;
+  background-position: right bottom;
+  clear: both;
+  overflow: auto;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+  color: #333;
+
+  p {
+    text-align:justify;
+  }
+
+  img {
+    float: right;
+    max-width: 200px;
+    max-height: 200px;
+    margin: 15px;
+  }
+
+  h2 {
+    font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
+    color: #777;
+    text-transform: none;
+    font-size: 2.0em;
+    background: none;
+  }
+
+}
