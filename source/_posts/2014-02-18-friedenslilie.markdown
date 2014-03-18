@@ -9,7 +9,7 @@ categories: Grünes
 {% wikipedia Spathiphyllum lang:de %}
 
 ## Allgemeines
-Wie die Grünlilie ist die Friedenslilie eine schlichte grüne Pflanze. Ihre zum Teil sehr großen weißen Blüten sind sehr hübsch anzusehen; diese wachsen mit der Blume und die Blume mit dem Topf. Wenn man sie also permanent im selben Blumentopf hält, wird sie nie sonderlich viel wachsen; erstrecht nicht ohne Dünger.
+Wie die Grünlilie ist die **Friedenslilie** eine schlichte grüne Pflanze. Ihre zum Teil sehr großen weißen Blüten sind sehr hübsch anzusehen; diese wachsen mit der Blume und die Blume mit dem Topf. Wenn man sie also permanent im selben Blumentopf hält, wird sie nie sonderlich viel wachsen; erstrecht nicht ohne Dünger.
 
 ## Gießen, Düngen, Sonne
 Vergisst man sie, lässt sie ein bisschen die Blätter hängen. Ein klares Zeichen, dass es Zeit zum gießen ist. Dabei werden die Blätter aber nicht gleich unansehnlich, wie bei so man anderen Pflanzen. Nach dem Gießen stehen die Blätter dann wieder nach ein paar Stunden. Ruhig auch ein bisschen mehr gießen, so dass sie ein bisschen im Wasser steht. Fährt man in den Urlaub, kann man sie gut in einen Übertopf mit Wasser füllen, 2 Wochen kann sie so locker überleben.

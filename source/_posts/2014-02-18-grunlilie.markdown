@@ -9,7 +9,7 @@ categories: Grünes
 {% wikipedia Beamtengras lang:de %}
 
 ## Allgemeines
-Die Grünlilie ist der Klassiker unter den unverwüstbaren Zimmerpflanzen; man findet sie fast überall.
+Die **Grünlilie** ist der Klassiker unter den unverwüstbaren Zimmerpflanzen; man findet sie fast überall.
 Dies ist die optimale Pflanze für Leute, bei denen sonst selbst Plastikpflanzen eingehen.
 Die meiste Zeit über hat sie einfach nur grüne Blätter, kann aber bei entsprechender Düngung und Sonne sogar
 kleine hübsche Blüten hervorbringen.
