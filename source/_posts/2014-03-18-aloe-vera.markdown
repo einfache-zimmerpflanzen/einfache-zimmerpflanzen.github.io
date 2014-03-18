@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Aloe Vera"
+date: 2014-03-18 21:48:52 +0100
+comments: true
+categories: Kakteen
+---
+{ % wikipedia Aloe Vera lang:de }
+
+## Allgemeines
+Aloe Vera ist die optimale Pflanze für die sonnige Fensterbank. Da sie aus warmen Gebieten kommt ist sie relativ unempfindlich gegenüber Trockenheit und starker Sonneneinstrahlung. Obwohl sie technisch gesehen zu den [Spargelartigen](https://de.wikipedia.org/wiki/Affodillgew%C3%A4chse) gehört, werden sie hier erstmal zu den Kakteen gesteckt, weil sie denen von der Pflege her am ähnlichsten sind.
+
+## Gießen, Dünger, Sonne
+Einmal die Woche giessen reicht! Dabei ist darauf zu achten, dass das Wasser gut abfließen kann, z.B. in einem Untertopf, der eigentlich für Orchideen gedacht ist. Es darf auf keinen Fall Wasser im Übertopf bleiben, da sonst die Wurzeln anfangen zu schimmeln und die ganze Pflanze eingeht. Sollte man das früh merken,kann versucht werden die befallenen Wurzeln abzuschneiden und sie komplett nochmal umzupflanzen. Gegebenenfalls kann man den kompletten Untertopf für eine Minute in Wasser stellen und danach gut abtropfen lassen. 
+
+Düngen braucht man sie eigentlich fast nie, man sollte aber darauf achten, dass die Blätter schön grün und fleischig sind. Unter guten Bedingungen kann ein Stiel mit Blüten aus der Mitte wachsen.
+
+Sonne braucht sie wie schon erwähnt möglichst viel, die Südseite eines Gebäudes ist optimal.
+
+## Besonderes
+Der Aloe Vera werden [diverse Heilkräfte](https://de.wikipedia.org/wiki/Aloe_vera#Verwendung) nachgesagt. Ob das stimmt mag jeder selbst beurteilen. 
+
+Auch wichtig: Nicht in normale Blumenerde pflanzen, sondern entweder nach spezieller Erde fragen oder etwas Sand aus dem Sandkasten der Nachbarskinder beimischen.
+
+## Woher bekommt man sie?
+Die Aloe Vera pflanzt sich unterirdisch fort, nach einiger Zeit kommen also kleine Spitze aus der Erde, die sich zu einer vollständigen Pflanze entwickelt. Dazu braucht es allerdings ein bisschen Sonne und vielleicht Dünger. Wenn sie ca. 3-4cm lang sind, kann man sie im allgemeinen ausgraben, da sie eigene Wurzeln entwickelt haben und nicht mehr an der Hauptpflanze hängen. Meistens braucht man nicht tief graben. Alternativ vekommt man verschiedene Sorten in Gartenhäusern und großen Baumärkten mit Gartenabteilung.
