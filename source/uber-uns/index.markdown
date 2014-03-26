@@ -20,7 +20,7 @@ footer: true
 ## Unterstützung
 <i class="fa fa-euro"></i> [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=repat&url=https://github.com/einfache-zimmerpflanzen/einfache-zimmerpflanzen.github.ui&title=einfache-zimmerpflanzen&language=&tags=github&category=software)
 
-<i class="fa fa-bitcoin"<i> [Bitcoin: 124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg](bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg)
+<i class="fa fa-bitcoin"</i> [Bitcoin: 124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg](bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg)
 
 ## Copyright
 Alle Artikel und Bilder sind unter der CC-BY-SA 3.0 Lizenz veröffentlicht.
