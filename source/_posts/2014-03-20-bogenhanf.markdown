@@ -5,12 +5,13 @@ date: 2014-03-20 19:41:07 +0100
 comments: true
 categories: Kakteen
 ---
+## Wikipedia
 {% wikipedia Bogenhanf lang:de %} 
 
 ## Allgemeines
 Der Bogenhanf, im Volksmund auch Schwiegermutterzunge genannt, ist eine genügsame Pflanze, die es überwiegend in 2 Formen zu kaufen gibt: spitze runde Stiele und und fächerartige Blätter(wahrscheinlich der Ursprung des Spitznamens). Aufgrund der Eigenschaften wurde sie wieder bei den Kakteen eingeordnet.
 
-## Giessen, Düngen, Sonne
+## Gießen, Düngen, Sonne
 Auch diese Pflanze übersteht längere Trockenperioden ohne Probleme, man sollte sie sogar nicht allzu häufig giessen.
 
 Wenn Bogenhanf gedüngt wird, kann es zumindest bei der fächerartigen Ausführung passieren, dass ähnlich wie bei der Aloe Vera kleine Spitzen aus der Erde kommen, die zu vollständigen Pflanzen heranwachsen. Sobald sie ca. 5cm groß sind, kann man sie ausgraben und einpflanzen.

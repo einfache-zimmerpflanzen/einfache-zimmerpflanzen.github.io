@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Efeutute"
+date: 2014-03-26 02:52:45 +0100
+comments: true
+categories: Grünes
+---
+## Wikipedia
+{% wikipedia Efeutute lang:de %}
+
+## Allgemeines
+Die **Efeutute** sieht man häufig in öffentlichen Gebäuden oder Restaurants. Sie wächst schnell und bei entsprechenden Stützen klettert sie überall hoch.
+
+## Gießen, Dünger, Sonne
+Alle paar Tage sollte die Efeutute schon gegossen werden. Sie ist in diesem Punkt nicht ganz so tolerabel wie alle Pflanzen, die sonst in diesem Blog aufgeführt werden aber generell tolerant im Bezug auf Standort und Bodenbeschaffenheit. Wenn Wasser fehlt, werden nach ein paar Tagen meistens die unteren Blätter gelblich bis bräunlich und fallen schliesslich ab.
+
+Düngen ist möglich, dadurch kann sie etwas schneller wachsen. Allerdings sollte man damit eher vorsichtig sein.
+
+Eine starke Sonneneinstrahlung sollte vermieden werden, da vor allem die neuen Blätter relativ zart sind. Dafür hat man den Vorteil, dass die Efeutute auch in schattigen Zimmern noch einigermaßen wächst, z.B. in Kellern(mit Fenstern natürlich) oder in Ecken in die das Sonnenlicht nie direkt scheint.
+
+## Besonderheiten
+Die Efeutute muss immer gestützt werden. Sie kann zum Säubern von Aquarien eingesetzt werden, da sie dem Wasser Phosphate und Nitrate entzieht und diese wiederrum zum Wachsen benutzt. Auch entzieht sie der Luft wie die [Friedenslilie](http://einfache-zimmerpflanzen.de/blog/2014/02/18/friedenslilie/) einige Schadstoffe.
+
+## Woher bekommt man sie?
+Auch bei dieser Pflanze hat man das Problem mit relativ kompliziertem Ausgraben von Sprößlingen. Im Fachgeschäft wie einem Gartencenter bekommt man sie meistens ohnehin mit einem Moosstab, an dem die kleine Pflanze erstmal empor klettern sollte.
