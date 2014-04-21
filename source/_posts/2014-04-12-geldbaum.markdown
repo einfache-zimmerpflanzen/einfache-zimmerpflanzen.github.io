@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Geldbaum"
+date: 2014-04-12 18:17:15 +0200
+comments: true
+categories: Kakteen
+---
+## Wikipedia
+{% wikipedia Geldbaum lang:de %}
+
+## Allgemeines
+Der **Geldbaum** oder auch **Pfenningbaum** ist ein meistens zwischen 10-50cm großer Mini-Baum mit dicken Blättern, die Flüssigkeit speichern.
+
+## Gießen, Dünger, Sonne
+Gießen braucht man ihn nicht wirklich oft,  wenn man genau hinguckt werden nach einigen Tagen oder Wochen ein paar Blätter gelb. Dann muss spätestens gegossen werden, im Winter reicht - je nach Größe - alle 2 Wochen. Düngen kann man ihn wenn überhaupt im Sommer und nur mit Kakteendünger. Er verträgt viel Sonne, Fensterplätze neben der [http://einfache-zimmerpflanzen.de/blog/2014/03/18/aloe-vera/ Aloe Vera] wären ideal.
+
+## Besonderes
+
+
+## Woher bekommt man sie?
