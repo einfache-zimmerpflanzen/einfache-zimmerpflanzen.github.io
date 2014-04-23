@@ -12,15 +12,15 @@ footer: true
 <table border="0">
     <tr>
         <td><i class="fa fa-envelope"></i></td>
-        <td>[einfache-zimmerpflanzen@repat.de](mailto:einfache-zimmerpflanzen@repat.de)([<i class="fa fa-key"></i>](http://repat.de/files/repat_pub_key.asc))</td>
+        <td>[einfache-zimmerpflanzen@repat.de](mailto:einfache-zimmerpflanzen@repat.de) <a href="http://repat.de/files/repat_pub_key.asc"><i class="fa fa-key"></i></a></td>
         <td><i class="fa fa-comment"></i></td>
-        <td>[repat@jabber.ccc.de](xmpp:repat@jabber.ccc.de)</td>
+        <td><a href="xmpp:repat@jabber.ccc.de">repat@jabber.ccc.de</a></td>
     </tr>
     <tr>
         <td><i class="fa fa-twitter"></i></td>
-        <td>[@einfachzimmerpf](https://twitter.com/einfachzimmerpf)</td>
+        <td><a href="https://twitter.com/einfachzimmerpf">@einfachzimmerpf</a></td>
         <td><i class="fa fa-facebook"></i></td>
-        <td>[einfachezimmerpflanzen](https://facebook.com/einfachzimmerpf)</td>
+        <td><a href="https://facebook.com/einfachzimmerpf">einfachezimmerpflanzen</a></td>
     </tr>
 </table>
 
@@ -28,12 +28,13 @@ footer: true
 <table border="0">
     <tr>
         <td><i class="fa fa-euro"></i></td>
-        <td>[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=repat&url=https://github.com/einfache-zimmerpflanzen/einfache-zimmerpflanzen.github.ui&title=einfache-zimmerpflanzen&language=&tags=github&category=software)</td>
+        <td><a href="https://flattr.com/submit/auto?user_id=repat&amp;url=https://github.com/einfache-zimmerpflanzen/einfache-zimmerpflanzen.github.ui&amp;title=einfache-zimmerpflanzen&amp;language=&amp;tags=github&amp;category=software"><img src="http://api.flattr.com/button/flattr-badge-large.png" /></a></td>
     </tr>
     <tr>
         <td><i class="fa fa-bitcoin"></i></td>
-        <td>[Bitcoin: 124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg](bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg)</td>
+        <td><a href="bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg">Bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg</a></td>
     </tr>
+</table>
     
 ## Copyright
 Alle Artikel und Bilder sind unter der CC-BY-SA 3.0 Lizenz veröffentlicht.
