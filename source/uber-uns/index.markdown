@@ -9,19 +9,32 @@ footer: true
 **Einfache Zimmerpflanzen** ist ein Blog über *pflegeleichte Zimmerpflanzen*. Er wird von [repat](http://repat.de) moderiert. Gast-Artikel sind willkommen, eine E-Mail genügt.
 
 ## Kontakt
-<i class="fa fa-envelope"></i> [einfache-zimmerpflanzen@repat.de](mailto:einfache-zimmerpflanzen@repat.de)([PGP](http://repat.de/files/repat_pub_key.asc))
-
-<i class="fa fa-twitter"></i> [@einfachzimmerpf](https://twitter.com/einfachzimmerpf)
-
-<i class="fa fa-facebook"></i> [einfachezimmerpflanzen](https://facebook.com/einfachzimmerpf)
-
-<i class="fa fa-comment"></i> [repat@jabber.ccc.de](xmpp:repat@jabber.ccc.de)
+<table border="0">
+    <tr>
+        <td><i class="fa fa-envelope"></i></td>
+        <td>[einfache-zimmerpflanzen@repat.de](mailto:einfache-zimmerpflanzen@repat.de)([<i class="fa fa-key"></i>](http://repat.de/files/repat_pub_key.asc))</td>
+        <td><i class="fa fa-comment"></i></td>
+        <td>[repat@jabber.ccc.de](xmpp:repat@jabber.ccc.de)</td>
+    </tr>
+    <tr>
+        <td><i class="fa fa-twitter"></i></td>
+        <td>[@einfachzimmerpf](https://twitter.com/einfachzimmerpf)</td>
+        <td><i class="fa fa-facebook"></i></td>
+        <td>[einfachezimmerpflanzen](https://facebook.com/einfachzimmerpf)</td>
+    </tr>
+</table>
 
 ## Unterstützung
-<i class="fa fa-euro"></i> [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=repat&url=https://github.com/einfache-zimmerpflanzen/einfache-zimmerpflanzen.github.ui&title=einfache-zimmerpflanzen&language=&tags=github&category=software)
-
-<i class="fa fa-bitcoin"></i> [Bitcoin: 124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg](bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg)
-
+<table border="0">
+    <tr>
+        <td><i class="fa fa-euro"></i></td>
+        <td>[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=repat&url=https://github.com/einfache-zimmerpflanzen/einfache-zimmerpflanzen.github.ui&title=einfache-zimmerpflanzen&language=&tags=github&category=software)</td>
+    </tr>
+    <tr>
+        <td><i class="fa fa-bitcoin"></i></td>
+        <td>[Bitcoin: 124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg](bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg)</td>
+    </tr>
+    
 ## Copyright
 Alle Artikel und Bilder sind unter der CC-BY-SA 3.0 Lizenz veröffentlicht.
 Das heißt, dass jedermann sie nutzen, verändern und selbst kommerziell nutzen darf, wenn ein entsprechender Hinweis auf den Autor(also diese Website) angelegt wird, sowie das enstandene Produkt unter derselben Lizenzen steht.
