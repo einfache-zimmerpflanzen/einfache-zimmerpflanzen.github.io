@@ -1,0 +1,9 @@
+<a class="FlattrButton" style="display:none;"
+    title="{{ page.title }}"
+    data-flattr-uid="{{ site.flattr_user }}"
+    data-flattr-tags="{{ page.categories | join: "," }}"
+    data-flattr-button="compact"
+    data-flattr-category="text"
+    href="{{ site.url }}{{ page.url }}">
+    {% if page.description %}{{ page.description }}{% else %}{{page.content | truncate: 500}}{% endif %}
+</a>

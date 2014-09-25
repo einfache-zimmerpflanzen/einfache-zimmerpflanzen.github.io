@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Minze"
+date: 2014-09-25 22:55:25 +0200
+comments: true
+categories: Essbar
+---
+## Wikipedia
+{% wikipedia Minzen lang:de %}
+
+## Allgmeines
+Die Minze ist eine robuste, krautartige Pflanze, die die meisten wohl von Tees und Cocktails kennen. Sie wächst in Sprossen und kann ca. 10-15cm groß werden. Die Blätter sind bei den meisten Arten verzehrbar.
+
+## Gießen, Dünger, Sonne
+Gießen sollte man sie schon regelmässiger als andere Pflanzen hier im Blog. Spätestens wenn die Blätter trocken oder braun werden sollte man sie gießen. Sollte man das vergessen ist es aber auch weniger schlimm, schließlich kann man getrocknete Blätter immer noch für Tee benutzen.
+Dünger braucht sie eigentlich nicht, nur einigermaßen gute Erde. Am besten wird sie auch eher im Schatten gehalten. Über den Winter kann man sie reinstellen oder abdecken. Mit etwas Glück ist sie im nächsten Jahr wieder da. In der direkten Sonne würde sie im Sommer verbrennen.
+
+## Besonderes
+Die Minze ist natürlich eine Gruppe von Pflanzen, es gibt viele verschiedene Arten. Häufig werden sie mit dem Anwendungszweck beworben, z.B. [Mojito](https://de.wikipedia.org/wiki/Mojito) Minze oder krause Minze für Tee. Das ist Geschmackssache, es gibt auch viele interessante Kreuzungen. Alle Arten vermehren sich aber relativ schnell und machen sich auch im Kräutergarten gut. Sie pflanzen sich allerdings unterirdisch fort, und so kann es vorkommen, dass man plötzlich Minze im ganzen Beet bzw. Topf hat, lieber also einen extra Topf besorgen.
+
+## Woher bekommt man sie?
+Jede Gartenhandlung, meistens sogar der gut sortierte Supermarkt bietet Minzen an. Außerdem kann man sich auch von Freunden einen kräftigen Strauch abschneiden und ihn in ein Glass Wasser stellen, bis er erste Wurzeln schlägt. Dann einfach in feuchte Erde stecken und warten.

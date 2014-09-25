@@ -7,32 +7,16 @@ sharing: true
 footer: true
 ---
 **Einfache Zimmerpflanzen** ist ein Blog über *pflegeleichte Zimmerpflanzen*. Er wird von [repat](http://repat.de) moderiert. Gast-Artikel sind willkommen, eine E-Mail genügt.
+Natürlich kann man diesen Blog auch über unseren [Feed abonnieren](http://einfache-zimmerpflanzen.de/atom.xml).
 
 ## Kontakt
-<table border="0" style="border-spacing: 2px;">
-    <tr>
-        <td><i class="fa fa-envelope"></i></td>
-        <td><a href="mailto:einfache-zimmerpflanzen@repat.de">einfache-zimmerpflanzen@repat.de</a>(<a href="http://repat.de/files/repat_pub_key.asc"><i class="fa fa-key"></i></a>)</td>
-        <td><i class="fa fa-comment"></i></td>
-        <td><a href="xmpp:repat@jabber.ccc.de">repat@jabber.ccc.de</a></td>
-    </tr>
-    <tr>
-        <td><i class="fa fa-twitter"></i></td>
-        <td><a href="https://twitter.com/einfachzimmerpf">@einfachzimmerpf</a></td>
-        <td><i class="fa fa-facebook"></i></td>
-        <td><a href="https://facebook.com/einfachzimmerpf">einfachezimmerpflanzen</a></td>
-    </tr>
-</table>
+<p><i class="fa fa-envelope"></i> <a href="mailto:einfache-zimmerpflanzen@repat.de">einfache-zimmerpflanzen@repat.de</a> (<a href="http://repat.de/files/repat_pub_key.asc"><i class="fa fa-key"></i></a>)</p>
+<p><i class="fa fa-comment"></i> <a href="xmpp:repat@jabber.ccc.de">repat@jabber.ccc.de</a> </p>
+<p><i class="fa fa-twitter"></i> <a href="https://twitter.com/einfachzimmerpf">@einfachzimmerpf</a></p>
+<p><i class="fa fa-facebook"></i> <a href="https://facebook.com/einfachzimmerpf">einfachezimmerpflanzen</a></p>
 
 ## Unterstützung
-<table border="0">
-    <tr>
-        <td><i class="fa fa-euro"></i></td>
-        <td><a href="https://flattr.com/submit/auto?user_id=repat&amp;url=https://github.com/einfache-zimmerpflanzen/einfache-zimmerpflanzen.github.ui&amp;title=einfache-zimmerpflanzen&amp;language=&amp;tags=github&amp;category=software"><img src="http://api.flattr.com/button/flattr-badge-large.png" /></a></td>
-        <td><i class="fa fa-bitcoin"></i></td>
-        <td><a href="bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg">Bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg</a></td>
-    </tr>
-</table>
+<p><i class="fa fa-bitcoin"></i> <a href="bitcoin:124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg">124ndTUDwuZnUbFxxypzNPX5jvKK88SyLg</a></p>
     
 ## Copyright
 Alle Artikel und Bilder sind unter der CC-BY-SA 3.0 Lizenz veröffentlicht.
@@ -43,5 +27,4 @@ Mehr zu Creative Commons Lizenzen findest du [hier](http://creativecommons.org/l
 Dieser Blog benutzt die Open Source Software [Octopress](http://octopress.org) mit dem Theme [readify](https://github.com/vladigleba/readify).
 Der Quelltext liegt auf [GitHub](https://github.com/einfache-zimmerpflanzen/einfache-zimmerpflanzen.github.io).
 
-## Impressum
 <i class="fa fa-info"></i> [Impressum](http://repat.de/Bilder/pr/musserpmi.PNG)
